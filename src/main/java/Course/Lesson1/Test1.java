@@ -1,7 +1,7 @@
 package Course.Lesson1;
 
 /**
- * Some comment
+ * Some comment from github
  */
 public class Test1 {
     public static void main(String[] args) {
